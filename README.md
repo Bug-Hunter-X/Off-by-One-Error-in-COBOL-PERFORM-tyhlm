@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL PERFORM loops and provides a corrected version.  The original code incorrectly calculates the counter value due to an extra iteration. The solution adjusts the loop condition to fix this issue.
